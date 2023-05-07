@@ -37,6 +37,7 @@ nav {
 
 nav:hover{
     transition:3s;
+}
 
 .nav-link {
     font-size: 24px;
