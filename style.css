@@ -31,6 +31,7 @@ nav {
     padding: 25px 100px 25px 95px;
     justify-content: space-between;
     display: flex;
+    transition:3s;
 
 }
 
